@@ -1,0 +1,497 @@
+Hive (C:\Users\maiky\Downloads\NTUSER.DAT) is not dirty.
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+adobe v.20200522
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Could not access Software\Adobe\Acrobat Reader\\AVGeneral\cRecentFiles
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+2020-11-15 16:53:33Z
+  Skype.exe - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.66.74.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+2020-10-30 21:04:13Z
+  firefox.exe - C:\Users\maiky\AppData\Local\Mozilla Firefox\firefox.exe
+----------------------------------------
+cached v.20200525
+(NTUSER.DAT) Gets cached Shell Extensions from NTUSER.DAT hive
+
+comdlg32 v.20200517
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32
+LastWrite Time 2020-06-03 04:30:20Z
+CIDSizeMRU
+LastWrite: 2020-11-18 00:07:35Z
+Note: All value names are listed in MRUListEx order.
+
+  firefox.exe
+  Teams.exe
+  sublime_text.exe
+  {E84764BA-09E5-4D7B-9CC0-A6B1673FC8C3}
+  VirtualBox.exe
+  pythonw.exe
+  notepad++.exe
+  chrome.exe
+  VirtualBoxVM.exe
+  {50BA7504-BFB2-49DA-A3C8-246CD931A0C4}
+  {4C97B3E2-A9C3-4015-B2CD-9CB4C57A4299}
+  PickerHost.exe
+  WinRAR.exe
+  PowerShell_ISE.exe
+  gvim.exe
+  notepad.exe
+  Encrypto.exe
+  systempropertiesadvanced.exe
+  OpenWith.exe
+  rufus-3.10.exe
+  Win32DiskImager.exe
+
+FirstFolder
+LastWrite time: 2020-10-30 03:59:18Z
+Note: All value names are listed in MRUListEx order.
+
+  C:\Users\maiky\AppData\Local\Temp\Rar$EXa8884.48952\notepad++.exe  
+  C:\Program Files\WinRAR\WinRAR.exe C:\Users\maiky\OneDrive\Documentos\Codigos\Python\System32.3\dist 
+  C:\Program Files (x86)\Vim\vim82\gvim.exe C:\Users\maiky\Downloads\ 
+  C:\Program Files\Sublime Text 3\sublime_text.exe  
+
+LastVisitedPidlMRU
+LastWrite time: 2020-11-18 00:07:35Z
+Note: All value names are listed in MRUListEx order.
+  # Modifique la siguiente linea porque contenia el id de un usuario de facebook
+  firefox.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Pruebas\user_id (facebook)
+  Teams.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  sublime_text.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Pruebas
+  {E84764BA-09E5-4D7B-9CC0-A6B1673FC8C3} - My Computer\C:\Users\maiky\OneDrive\Imágenes\Screenshots
+  VirtualBox.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  pythonw.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6
+  notepad++.exe - My Computer\CLSID_Desktop
+  VirtualBoxVM.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  chrome.exe - My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots
+  {50BA7504-BFB2-49DA-A3C8-246CD931A0C4} - My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\FSO
+  {4C97B3E2-A9C3-4015-B2CD-9CB4C57A4299} - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  PickerHost.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  PowerShell_ISE.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\WindowsPowerShell\Scripts\InstalledScriptInfos\GetMSTeams
+  gvim.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  NOTEPAD.EXE - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1
+  Encrypto.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  OpenWith.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+	  rufus-3.10.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  Win32DiskImager.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+
+OpenSavePidlMRU
+LastWrite time: 2020-10-25 14:39:48Z
+OpenSavePidlMRU\*
+LastWrite Time: Wed Nov 18 00:07:35 2020
+Note: All value names are listed in MRUListEx order.
+  # En la siguiente linea, modifique el nombre la ultima carpeta y de la foto ya que incluían 
+  # el user_id de un usuario (estaba probando un codigo para descargar imagenes de facebook)
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Pruebas\name_folder\name_picture.jpg
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\MatD_2doP_MAGR_1841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Pruebas\Prueba.py
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Fase 2_Dis.pptx
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots\Captura de pantalla (114).png
+  Libraries\Imágenes\Screenshots\Captura de pantalla (108).png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots\Captura de pantalla (107).png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots\Captura de pantalla (106).png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots\Captura de pantalla (105).png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots\Captura de pantalla (104).png
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\CifradoCesar.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\App.py
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\Screenshots\Captura de pantalla (103).png
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\Molde.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\Prueba.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 8\Act 8.pdf
+  My Computer\C:\Users\maiky\OneDrive\Imágenes\Screenshots\Captura de pantalla (102).png
+  My Computer\C:\Users\maiky\OneDrive\Imágenes\Screenshots\Captura de pantalla (100).png
+  My Computer\C:\Users\maiky\OneDrive\Imágenes\Screenshots\Captura de pantalla (99).png
+  My Computer\C:\Users\maiky\OneDrive\Imágenes\Screenshots\Captura de pantalla (98).png
+
+OpenSavePidlMRU\crypto
+LastWrite Time: Fri Aug 21 06:59:16 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\New folder.crypto
+
+OpenSavePidlMRU\docx
+LastWrite Time: Sun Oct 18 03:57:50 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\FSO\TAREA 2 - PREGUNTAS.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Curriculum Vitae - Miguel A. Guerra Rangel.docx
+  Libraries\Documentos\Profes UANL.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Profes UANL.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Noa.docx
+  Libraries\Documentos\Noa.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Noah.docx
+  Explorer\TIA.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Hiperbola.docx
+
+OpenSavePidlMRU\exe
+LastWrite Time: Fri Oct  9 01:58:12 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.3\dist\System32.sfx.exe
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.3\dist\Tarea.sfx.exe
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\HolaMundo.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Sublime Text Build 3211 x64 Setup.exe
+
+OpenSavePidlMRU\inf
+LastWrite Time: Fri Sep 25 05:47:43 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\autorun.inf
+
+OpenSavePidlMRU\iso
+LastWrite Time: Fri Nov  6 22:27:09 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\CentOS-8.2.2004-x86_64-dvd1.iso
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\CentOS-Stream-8-x86_64-20201014-dvd1.iso
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Win10_2004_Spanish(Mexico)_x64.iso
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\kali-linux-2020.3-installer-amd64.iso
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\kali-linux-2020.2-installer-amd64.iso
+
+OpenSavePidlMRU\java
+LastWrite Time: Sat Sep 12 17:59:38 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\vim.java
+  Libraries\Documentos\java\Ejercicio1.java
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\python\Java\Noa.java
+
+OpenSavePidlMRU\jpeg
+LastWrite Time: Mon Nov  2 02:41:03 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\maiky\Downloads\caracteres_escape.jpeg
+  My Computer\C:\Users\maiky\Downloads\Comillado_simple.jpeg
+  My Computer\C:\Users\maiky\Downloads\Comillado_doble.jpeg
+  My Computer\C:\Users\maiky\Downloads\Sustitucion_comandos.jpeg
+  My Computer\C:\Users\maiky\Downloads\Expansion_parametros.jpeg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Expansion_llaves.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_cat.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_grep.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_head.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_sort.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_tail.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_wc.jpeg
+  My Computer\C:\Users\maiky\Downloads\Command_tee.jpeg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Command_uniq.jpeg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\WhatsApp Image 2020-06-08 at 9.45.51 PM.jpeg
+  My Computer\C:\Users\maiky\Downloads\WhatsApp Image 2020-06-06 at 10.32.48 PM.jpeg
+  My Computer\C:\Users\maiky\Downloads\WhatsApp Image 2020-06-06 at 10.32.43 PM.jpeg
+  My Computer\C:\Users\maiky\Downloads\WhatsApp Image 2020-06-06 at 10.32.38 PM.jpeg
+  My Computer\C:\Users\maiky\Downloads\WhatsApp Image 2020-06-06 at 10.32.32 PM.jpeg
+  My Computer\C:\Users\maiky\Downloads\WhatsApp Image 2020-06-06 at 10.32.26 PM.jpeg
+
+OpenSavePidlMRU\jpg
+LastWrite Time: Wed Nov 18 00:07:35 2020
+Note: All value names are listed in MRUListEx order.
+  # Modifique la siguiente linea porque contenía el id de un usuario
+  # y el id de una imagen
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Pruebas\user_id\image_id.jpg
+  My Computer\C:\Users\maiky\OneDrive\Documentos\FotoMIGUEL001.jpg
+  My Computer\C:\Users\maiky\OneDrive\Documentos\FotoMIGUEL002.jpg
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\FotoMIGUEL002.jpg
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\FotoMIGUEL001.jpg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\36674180_1906938936061729_7922172563084541952_o.jpg
+  My Computer\C:\Users\maiky\OneDrive\Documentos\img011.jpg
+  My Computer\C:\Users\maiky\Downloads\103653160_678113192771965_2003327669741665829_n.jpg
+  My Computer\C:\Users\maiky\Downloads\103821655_3234759639896013_2946138077773790528_n.jpg
+  My Computer\C:\Users\maiky\Downloads\104167301_557965025084854_2042562921313485700_n.jpg
+  My Computer\C:\Users\maiky\Downloads\103650177_685597382278251_9042723952984444360_n.jpg
+  My Computer\C:\Users\maiky\Downloads\104483294_676841003169937_6292414174626548865_n.jpg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\103650177_685597382278251_9042723952984444360_n.jpg
+  My Computer\C:\Users\maiky\Downloads\100838371_2615602732043446_7391943538834931712_n.jpg
+  My Computer\C:\Users\maiky\Downloads\102713614_558646381516344_3524304958843256832_n.jpg
+  My Computer\C:\Users\maiky\Downloads\100827472_552329845645026_4891745756169371648_n.jpg
+  My Computer\C:\Users\maiky\Downloads\102463492_3675352725824587_8147886284333907968_n.jpg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\83527649_924617128003907_7329390690243182592_n.jpg
+
+OpenSavePidlMRU\key
+LastWrite Time: Fri Aug 21 07:30:56 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\rarreg.key
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\rarregg.key
+
+OpenSavePidlMRU\mp4
+LastWrite Time: Fri Sep 11 04:03:49 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\CI\1 31 AGO 2020.mp4
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\11540731_841445952611038_657569075_n.mp4
+
+OpenSavePidlMRU\pdf
+LastWrite Time: Sat Nov 14 04:53:39 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\MatD_2doP_MAGR_1841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 8\Act 8.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 10\Act 10.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 9\Act 9.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 7\Act 7.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 6\Act 6.pdf
+  Libraries\Documentos\Tercer Semestre\FSO\Actividades\Act 4\Act 4.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\SegundoParcial_MAGR_1841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 2\Act2.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 3\Act3.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Actividades\Act 1\Act1.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\FSO\Tareas\TAREA 2 - PREGUNTAS.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PtsExtra_0631841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\ExamCorreg_0631841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Curriculum Vitae.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\MAGR_1841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\T2_009MAGR_1841631.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\T1_063MAGR_1841631001.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\MAGR_1841631001.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Laboratorio-MDiscretas001.pdf
+
+OpenSavePidlMRU\pptx
+LastWrite Time: Fri Nov 13 03:57:13 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Fase 2_Dis.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\CalculoIntegral_C2.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\TAlgebra_C2.pptx
+
+OpenSavePidlMRU\ps1
+LastWrite Time: Wed Sep 30 06:55:25 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T1_PowerShell.ps1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\T1_PoweShell.ps1
+  Libraries\Documentos\Tercer Semestre\PC\Tareas\T1_PoweShell.ps1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T1_PoweShell.ps1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Codigos\PowerShell\Ejercicio 3\E3MAGR.ps1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\PowerShell\Ejercicio 3\E3MAGR.ps1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Codigos\PowerShell\Tarea3\E3MAGR.ps1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\PowerShell\Tarea3\Aplicacion.ps1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Codigos\PowerShell\Tarea3\Prueba.ps1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\PowerShell\Tarea3\Prueba.ps1
+  Libraries\Documentos\Codigos\PowerShell\Tarea3\Prueba.ps1
+  My Computer\C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Modulo\Prueba.ps1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\PowerShell\Tarea3\Principal.ps1
+  Libraries\Documentos\Codigos\PowerShell\Tarea3\Principal\Principal.ps1
+  Libraries\Documentos\Codigos\PowerShell\Tarea3\Modulo.ps1
+  Libraries\Documentos\Codigos\PowerShell\Tarea3\Principal.ps1
+  Libraries\Documentos\Codigos\PowerShell\java\Práctica1_1841631\Ejercicio1.ps1
+  Libraries\Documentos\Tercer Semestre\PC\Codigos\Condiciones2.ps1
+  Libraries\Documentos\Tercer Semestre\PC\Codigos\SwitchCase.ps1
+  Libraries\Documentos\Tercer Semestre\PC\Codigos\Switch.ps1
+
+OpenSavePidlMRU\psm1
+LastWrite Time: Wed Sep 30 00:50:10 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\WindowsPowerShell\Scripts\InstalledScriptInfos\GetMSTeams\GetMSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\WindowsPowerShell\Scripts\InstalledScriptInfos\GetMSTeams\GetMSTeams.psm1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\WindowsPowerShell\Scripts\InstalledScriptInfos\ConnectMSTeams\ConnectMSTeams.psm1
+  Explorer
+  My Computer\C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Ver\Ver.psm1
+  My Computer\C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Cambiar\Cambiar.psm1
+  My Computer\C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Agregar\Agregar.psm1
+  Explorer\ConnectMSTeams.psm1
+  Explorer\Connect-MSTeams.psm1
+  My Computer\C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Connect-MSTeams\Connect-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\Disconnect-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\Connect-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\Set-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\Remove-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\Add-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\New-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Tercer Semestre\PC\Tareas\Get-MSTeams.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Codigos\PowerShell\Ejercicio 3\Cambiar\Cambiar.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Codigos\PowerShell\Tarea3\Ver\Ver.psm1
+  My Computer\C:\Users\maiky\OneDrive\Documentos\Codigos\PowerShell\Tarea3\Obtener\Obtener.psm1
+
+OpenSavePidlMRU\py
+LastWrite Time: Tue Nov 10 10:28:41 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Pruebas\Prueba.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\CifradoCesar.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\App.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\Molde.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T3\Prueba.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Comandos\Prueba.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Comandos\Comandos.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\Auxiliar.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\init.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\WScraping.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\Practica6.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\Algo2.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\WebScraping.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\Algo.py
+  Libraries\Documentos\Tercer Semestre\LPC\Practica6\Algo.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\Prueba.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\Prueba3.py
+  My Computer\CLSID_Desktop\Prueba.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\LPC\Practica6\Prueba2.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T2\Pruebas.py
+
+OpenSavePidlMRU\rar
+LastWrite Time: Wed Sep 30 06:59:40 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tercer Semestre\PC\Tareas\T1_PowerShell.rar
+
+OpenSavePidlMRU\sh
+LastWrite Time: Tue Sep 29 18:38:07 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Tercer Semestre\LPC\Tarea1.sh
+
+OpenSavePidlMRU\txt
+LastWrite Time: Thu Nov  5 11:26:24 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\Comandos\Comandos.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\segundo.txt
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\hersheys.com.txt
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\telmex.com.txt
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\twitter.com.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\app.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\Python\System32.1\Primero.txt
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\vim.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\rarregg.key.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\rarreg.key.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\python\Ej\Perso\New folder\prueba.txt
+
+OpenSavePidlMRU\zip
+LastWrite Time: Thu Sep 24 04:32:49 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Codigos\PowerShell\Ejercicio 3.zip
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\java\Noah Java\Practica2_1868619.zip
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\python\EjerciciosPerso\Proyecto\Proyecto.zip
+  Explorer\baby de Michelle.zip
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Materias.zip
+  Libraries\Documentos\python\EjerciciosPerso\Proyecto\Proyecto.zip
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+Environment
+LastWrite Time: 2020-08-28 05:04:08Z
+# La variable de entorno "Correo_gmail" la modifique porque incluia
+# mi correo personal
+Correo_gmail             correo@gmail.com                            
+OneDrive                  C:\Users\maiky\OneDrive                           
+OneDriveConsumer          C:\Users\maiky\OneDrive                           
+Path                      %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\maiky\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Program Files\Java\jdk-14.0.2\bin;
+TEMP                      Cgmail                                            
+TMP                       %USERPROFILE%\AppData\Local\Temp
+# La soiguiente variable de entorno la modifique porque incluia
+# la contraseña de mi correo personal                            
+PGMAIL                    ***********************
+----------------------------------------
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time 2020-08-28 05:04:08Z
+# La siguiente linea la modifique porque contenía mi correo
+Correo_gmail -> correo@gmail.com
+OneDrive -> C:\Users\maiky\OneDrive
+OneDriveConsumer -> C:\Users\maiky\OneDrive
+Path -> %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\maiky\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Program Files\Java\jdk-14.0.2\bin;
+TEMP -> Cgmail
+TMP -> %USERPROFILE%\AppData\Local\Temp
+# Modifique la siguiente linea porque contenía mi correo
+Cgmail -> correo@gmail.com
+# Modifique la siguiente linea porque contenía mi contraseña
+PGMAIL -> *************************
+IGMAIL -> 7200
+
+----------------------------------------
+typedurls v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time 2020-08-30 18:44:03Z
+  url1 -> http://web.whatsapp.com/
+  url2 -> http://youtube.com/
+  url3 -> http://www.uanl.mx/
+  url4 -> http://go.microsoft.com/fwlink/p/?LinkId=255141
+----------------------------------------
+typedurlstime v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+TypedURLsTime
+Software\Microsoft\Internet Explorer\TypedURLsTime
+LastWrite Time 2020-08-30 18:44:03Z
+  url1 -> 2020-08-30 18:44:03Z (http://web.whatsapp.com/)
+  url2 -> 2019-12-24 21:23:27Z (http://youtube.com/)
+  url3 -> 2018-12-22 01:30:16Z (http://www.uanl.mx/)
+  url4 -> 0
+----------------------------------------
+uninstall v.20200525
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+2020-11-10 09:10:56Z
+  Mozilla Firefox 82.0.3 (x64 es-ES) v.82.0.3
+
+2020-11-10 03:12:50Z
+  Microsoft Teams v.1.3.00.28779
+
+2020-11-05 21:20:40Z
+  Microsoft OneDrive v.20.201.1005.0006
+
+2020-06-01 09:13:00Z
+  Python 3.8.3 (32-bit) v.3.8.3150.0
+-------------------------------
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+  Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+  Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI
+  Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy!App
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\diskmgmt.msc
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Google\Temp\GUM3D12.tmp\GoogleUpdate.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Google\Update\GoogleUpdate.exe
+  Microsoft.Windows.Shell.RunDialog
+  C:\Users\maiky\AppData\Local\SquirrelTemp\Update.exe
+  Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy!App
+  C:\Users\maiky\Downloads\rufus-3.10.exe
+  Microsoft.LockApp_cw5n1h2txyewy!WindowsDefaultLockScreen
+  C:\Users\maiky\AppData\Local\Temp\{7A4C6BC4-43CC-47E6-AEE8-74BC153F196E}\.cr\python-3.8.3.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\notepad.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\ImageWriter\Win32DiskImager.exe
+  Microsoft.SkypeApp_kzf8qxf38zg5c!App
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\OpenWith.exe
+  C:\Users\maiky\Downloads\OfficeSetup.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe
+  Microsoft.MicrosoftEdge_8wekyb3d8bbwe!PdfReader
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\EaseOfAccessDialog.exe
+  Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App
+  C:\Users\maiky\Downloads\draw.io-12.4.2-windows-installer.exe
+  Microsoft.Windows.WindowsInstaller
+  C:\Users\maiky\Downloads\winrar-x64-591es.exe
+  C:\Users\maiky\Downloads\epson14819.exe
+  Microsoft.AutoGenerated.{80D273B8-5F24-724F-D7AF-4C891F2CE617}
+  Microsoft.Windows.MediaPlayer32
+  MSEdge.UserData.Default
+  C:\Users\maiky\Downloads\gvim82.exe
+  GitForWindows.Bash
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Git\mingw64\libexec\git-core\git-credential-manager.exe
+  C:\Users\maiky\Downloads\android-studio-ide-193.6626763-windows.exe
+  C:\Users\maiky\AppData\Local\Android\Sdk\extras\intel\Hardware_Accelerated_Execution_Manager\intelhaxm-android.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBoxVM.exe
+  C:\Users\maiky\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msdt.exe
+  Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy!App
+  C:\Users\maiky\Downloads\Tarea.sfx.exe
+  Microsoft.BingTranslator_8wekyb3d8bbwe!App
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Epic Games\rocketleague\Binaries\Win64\RocketLeague.exe
+  C:\Users\maiky\AppData\Local\Temp\7zS8A298319\setup-stub.exe
+  C:\Users\maiky\AppData\Local\Temp\7zSCC416F1A\setup-stub.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Bitvise SSH Client\BvSsh.exe
